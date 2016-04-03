@@ -1,6 +1,6 @@
 en:
   errors:
     messages:
-      dimension: "must have a %{dimension_type} of %{dimension}px was %{actual_dimension}px"
-      height_at_least: "has a height of %{actual_dimension}px and should be at least %{dimension}px"
-      width_at_least: "has a width of %{actual_dimension}px and should be at least %{dimension}px"
+      dimension: "must have a %{dimension_type} of %{dimension}px was %{actual_dimension}px."
+      height_at_least: "Make height > %{dimension}px."
+      width_at_least: "Make width > %{dimension}px."
